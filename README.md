@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)](https://imanyagupta15.io)
 <h1 align="center">Hi there!👋, I'm Manya Gupta.</h1>
 <h3 align="center">A Data Science Geek!</h3>
+<img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanyagupta15&label=Profile%20views&color=0e75b6&style=flat" alt="imanyagupta15" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imanyagupta15" target="blank"><img src="https://img.shields.io/twitter/follow/imanyagupta15?logo=twitter&style=for-the-badge" alt="imanyagupta15" /></a> </p>
